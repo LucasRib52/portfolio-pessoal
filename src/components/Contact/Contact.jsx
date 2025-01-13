@@ -72,17 +72,9 @@ const Contact = () => {
                         </span>
 
                         <h3 className="contact__card--title">Endereço</h3>
-                        <p className="contact__card--data">Mesquita / RJ</p>
+                        <p className="contact__card--data">Rio de janeiro/RJ</p>
                     </div>
 
-                    <div className="contact__card">
-                        <span className="contact__card--icon">
-                            <FaRegUser />
-                        </span>
-
-                        <h3 className="contact__card--title">Freelance</h3>
-                        <p className="contact__card--data">Disponível</p>
-                    </div>
 
                     <div className="contact__card">
                         <span className="contact__card--icon">

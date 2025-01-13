@@ -6,7 +6,7 @@ import List from './List';
 import Items from './Items';
 import { projects } from '../../Data';
 
-const allNavList = ['All', 'React', 'JavaScript', 'Python/Django'];
+const allNavList = ['All', 'React', 'JavaScript', 'Python/Django', 'Java/Spring Boot'];
 
 const Portfolio = () => {
   const [projectItems, setProjectItems] = useState(projects);

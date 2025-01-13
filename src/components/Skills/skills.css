@@ -149,3 +149,23 @@
 #git {
   color: #F05032; /* Cor para Git */
 }
+
+#sql {
+  color: #00758F;
+}
+
+#aws {
+  color: #FF9900;
+}
+
+#mongodb {
+  color: #47A248;
+}
+
+#java {
+  color: #007396;
+}
+
+#springboot {
+  color: #6DB33F;
+}

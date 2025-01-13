@@ -21,15 +21,15 @@ const Home = () => {
           <div className="home__text-content">
             <p className="home__subtitle">Olá, meu nome é</p>
             <h1 className="home__title">Lucas Cardoso</h1>
-            <p className="home__job">Desenvolvedor Full Stack</p>
+            <p className="home__job">Desenvolvedor Back End</p>
             <p className="home__description">
-              Sou um desenvolvedor Full Stack do Rio de Janeiro, apaixonado por criar soluções inovadoras e eficientes que aprimoram a performance e a usabilidade de aplicações web e móveis. Tenho experiência em ReactJS, JavaScript, Python e Django, e já participei de diversos projetos que impactaram positivamente a experiência do usuário. Estou constantemente buscando novos desafios e oportunidades para expandir minhas habilidades.
+            Sou um desenvolvedor Back-end do Rio de Janeiro, especializado em criar soluções eficientes e inovadoras que otimizam a performance e a usabilidade de sistemas. Tenho experiência sólida em Python com Django, Java com Spring Boot e ReactJS, além de trabalhar com bancos de dados como MySQL, SQL e PostgreSQL. Com noções de AWS, sou capaz de desenvolver soluções escaláveis e robustas, contribuindo para projetos que impactam positivamente a experiência do usuário. Estou sempre em busca de novos desafios para expandir minhas habilidades e entregar resultados excepcionais.
             </p>
             <div className="home__socials">
               <a href="https://www.linkedin.com/in/lucas-cardoso--/" className="home__social-link" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin />
               </a>
-              <a href="https://github.com/LucasRib52/LucasRib52/" className="home__social-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/LucasRib52" className="home__social-link" target="_blank" rel="noopener noreferrer">
                 <FaGithub />
               </a>
               <a href="https://www.instagram.com/lucasdev.py/" className="home__social-link" target="_blank" rel="noopener noreferrer">
